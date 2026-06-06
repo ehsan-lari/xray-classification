@@ -1,4 +1,4 @@
-## X-Ray Federated Classification With Partial-Sharing
+## X-Ray Federated Classification with Partial-Sharing (PSO-Fed)
 
 This repository contains our hackathon solution for federated chest X‑ray classification built with **Flower** and **PyTorch**.  
 The goal is to train a federated model across multiple hospitals.

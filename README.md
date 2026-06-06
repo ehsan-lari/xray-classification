@@ -1,4 +1,4 @@
-## Berlin X-Ray Federated Classification (Hackathon Submission)
+## X-Ray Federated Classification With Partial-Sharing
 
 This repository contains our hackathon solution for federated chest X‑ray classification built with **Flower** and **PyTorch**.  
 The goal is to train a federated model across multiple hospitals.
